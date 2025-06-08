@@ -10,8 +10,6 @@ combines Performance And Quality Of Life mods to
 deliver the best performance and smooth gameplay.
 
 Created by TheDarkPioneer7
-Creation Date 2024-04-20
-Updated 2025-06-08
   MODPACK CONTENT HIGHLIGHTS
 -----------------------------------------------------------
 Sodium - Boosts Minecraft’s frame rates and performance
