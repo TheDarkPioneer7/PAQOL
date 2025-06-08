@@ -1,7 +1,4 @@
-# PAQOL
-=
-                PAQOL - V2 for Minecraft 1.21.4
-=
+# PAQOL - V2 for Minecraft 1.21.4
 
   ABOUT THIS MODPACK
 -----------------------------------------------------------
