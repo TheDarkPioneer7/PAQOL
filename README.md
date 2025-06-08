@@ -1,4 +1,4 @@
-# PAQOL - V2 for Minecraft 1.21.4
+# PAQOL - Modpack for Minecraft Java Edition
 
   ABOUT THIS MODPACK
 -----------------------------------------------------------
