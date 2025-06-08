@@ -9,7 +9,6 @@ PAQOL is a custom-built Minecraft experience that
 combines Performance And Quality Of Life mods to 
 deliver the best performance and smooth gameplay.
 
-Created by TheDarkPioneer7
   MODPACK CONTENT HIGHLIGHTS
 -----------------------------------------------------------
 Sodium - Boosts Minecraft’s frame rates and performance
