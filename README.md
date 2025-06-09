@@ -36,7 +36,7 @@ Replay Mod - Records and replays your gameplay smoothly.
 - CurseForge Page: [placeholder for URL]
 - Mod List: "mods" folder
 - Contact: [placeholder (email or Discord?)]
-- Report bugs/suggestions: [placeholder]
+- Report bugs/suggestions: https://github.com/TheDarkPioneer7/PAQOL/issues
 - If having issues with the config of mods, try backing up 
   your "config" folder/"options.txt" and put in the ones 
   from this zip. They work perfectly for me!
