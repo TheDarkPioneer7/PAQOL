@@ -16,8 +16,8 @@ Replay Mod - Records and replays your gameplay smoothly.
 
   INSTALLATION INSTRUCTIONS
 -----------------------------------------------------------
-1. Install Minecraft version 1.21.4
-2. Install Fabric version 0.16.10:
+1. Install the matching Minecraft version
+2. Install Fabric version 0.16.10 for V2 & V3, 0.18.1 for V4 & V4Q:
    https://fabricmc.net/use/installer/
 3. Place the folder "mods" into "%AppData%\.minecraft"
    (Eventually "config" and "options.txt", read below)
@@ -48,4 +48,4 @@ licenses. Please do not redistribute modified versions without credit.
 All mods are the property of their respective authors.
 
 
-Enjoy your adventure in PAQOL!
+Enjoy your adventure with PAQOL!
